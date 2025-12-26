@@ -1,4 +1,4 @@
-# cppshell
+# cpp-shell
 
 Modern C++20, Linux/POSIX-oriented shell that keeps the code small and readable while showcasing process control, parsing, and readline integration.
 
