@@ -2,6 +2,8 @@
 
 Modern C++20, Linux/POSIX-oriented shell that keeps the code small and readable while showcasing process control, parsing, and readline integration.
 
+![cppshell prompt](docs/images/intro.png)
+
 Table of Contents
 -----------------
 - [What is it](#what-is-it)
